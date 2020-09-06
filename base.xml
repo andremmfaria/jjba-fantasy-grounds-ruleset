@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root version="3.0" release="4" logo="./img/jojo%20rpg%20logo.png">
+	<announcement text="JoJoRPG ruleset v0.1 for Fantasy Grounds\rCopyright 2019 Smiteworks USA, LLC" font="emotefont" icon="rulesetlogo_JoJoRPG" />
+	<description>
+		<text>JoJo RPG</text>
+		<author>@andremmafaria (andremarcalfaria@gmail.com)</author>
+		<website>https://github.com/andremmfaria/jjba-fantasy-grounds-ruleset</website>
+	</description>
+	<importruleset source="CoreRPG" />
+</root>
